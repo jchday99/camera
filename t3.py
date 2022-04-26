@@ -7,7 +7,7 @@ Builder.load_string('''
     orientation: 'vertical'
     Camera:
         id: camera
-        resolution: (640, 480)
+        resolution: (720,1280)
         play: False
     ToggleButton:
         text: 'Play'
